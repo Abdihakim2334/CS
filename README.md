@@ -82,11 +82,18 @@ Each section that describes a component should include more than just one senten
 
 This Challenge is graded based on the following criteria:
 
+### URL TO GITHUB GIST 
+
+https://gist.github.com/Abdihakim2334/ba616b4a8296c0194cfd88ba58f5cf4e
+
+
+
 ### Deliverables: 30%
 
 * A valid URL of your GitHub gist.
 
 * Your GitHub gist that contains the tutorial Markdown. Your gist must include the `.md` file extension so that your Markdown renders correctly.
+
 
 ### Technical Acceptance Criteria: 50%
 

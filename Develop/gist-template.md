@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# Hakim's Example of a Regex Pattern
 
-Introductory paragraph (replace this with your text)
+
 
 ## Summary
 This regex pattern that I will be showing is made for matching basic URLs, allowing for optional protocols and paths. The regex pattern that will be showing is dispayed below.
